@@ -1,6 +1,8 @@
-# Analysis for Competition 2
+# Analysis and overall comments for Competition 2
 
-*Setter: leaderboard*
+*Setter: Leaderboard*
+
+Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-1/challenges
 
 ## Overall comments
 
@@ -34,7 +36,7 @@ Number of attempts: 5
 
 This was a question that looked tricky from the outset, but was very straightfoward once the idea was understood, with every contestant getting this right again. Most correct solutions finished it off in one line as expected, with a couple of solutions doing it the manual way (which is also fine).
 
-# Question 3 - Peaks and valleys of stocks (30)
+## Question 3 - Peaks and valleys of stocks (30)
 
 Highest score: 30/30 <br>
 Lowest score: 8.18/30 <br>
@@ -46,7 +48,7 @@ Number of attempts: 2
 
 This question was originally anticipated to be a reasonable step up from Q2, but ended up being harder than anticipated. Only one submission scored full marks, with another coming very close (minus a runtime error). Both such solutions used an O(n) approach.
 
-# Question 4 - Fruit Baskets 1 (30)
+## Question 4 - Fruit Baskets 1 (30)
 
 Highest score: 13.45/30 <br>
 Lowest score: 6.21/30 <br>
