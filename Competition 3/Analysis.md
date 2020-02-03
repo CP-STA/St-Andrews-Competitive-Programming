@@ -1,6 +1,6 @@
 # Analysis and overall comments for Competition 2
 
-*Setter: Leaderboard*
+*Setter: Philip Searcy*
 
 Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-2/challenges
 
@@ -12,12 +12,12 @@ Like in the previous contest, partial marking was enabled and the majority of ma
 
 One question was written by the contest setter, with the other five questions selected from the Hackerrank archives.
 
-Number of contestants who made a submission: 6 <br>
-Highest score: 343.79/750 <br>
-Lowest score: 44.44/750 <br>
-Mean: 202.82/750 <br>
-Median: 200/750 <br>
-Mode: 100/750 
+Number of contestants who made a submission: 10 <br>
+Highest score: 343.79/750 (45.8%)<br> 
+Lowest score: 44.44/750 (5.9%)<br>
+Mean: 202.82/750 (27%)<br>
+Median: 200/750 (26.7%)<br>
+Mode: 100/750 (13.3%)
 ## Question 1 - Prime Seating (100)
 
 Highest score: 100/100 <br>
@@ -33,13 +33,12 @@ Highest score: 100/100 <br>
 Lowest score: 52/100 <br>
 Number of attempts: 7
 
-This problem was selected from Hackerrank's archives. It was intended to cover the 'ad hoc' type of programming contest problem, as no classical algorithmic or data structure techniques
-were required to answer it. Over half the people who attempted it got it right, however, it did slow down many contestants due to edge cases and off-by-one errors.
+This problem was selected from Hackerrank's archives. It was intended to cover the 'ad hoc' type of programming contest problem, as no classical algorithmic or data structure techniques were required to answer it. Over half the people who attempted it got it right, however, it did slow down many contestants due to edge cases and off-by-one errors.
 
 ## Question 3 - Lily's Homework (125)
 
-Highest score: 37.50 <br>
-Lowest score: 12.50 <br>
+Highest score: 37.50/125 (30%) <br>
+Lowest score: 12.50/125 (10%) <br>
 Number of attempts: 2
 
 This problem could also be considered to be an 'ad hoc' problem, but it required the contestants to use a sorting algorithm.
@@ -47,8 +46,8 @@ I expected this problem to be less accesssible than the previous ones, but I (in
 would be able to solve it completely.
 
 ## Question 4 - Sherlock and the Valid String (125)
-Highest score: 110.30 <br>
-Lowest score: 88.25 <br>
+Highest score: 110.30/125 (88.2%)<br>
+Lowest score: 88.25/125 (70.6%) <br>
 Number of attempts: 4
 
 This systematic string searching problem received more submissions than Question 3.
