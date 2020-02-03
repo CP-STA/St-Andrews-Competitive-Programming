@@ -1,4 +1,4 @@
-# Analysis and overall comments for Competition 2
+# Analysis and overall comments for Competition 3
 
 *Setter: Philip Searcy*
 
