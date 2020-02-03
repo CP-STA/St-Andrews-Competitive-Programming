@@ -22,6 +22,7 @@ Mode: 100/750 (13.3%)
 
 Highest score: 100/100 <br>
 Lowest score: 44.44/100 <br>
+Mean: 94.4/100 <br>
 Number of attempts: 10
 
 This problem was intended to be very accessible, as even a brute force solution which checked all of the numbers from 2 to (n-1) inclusive for factors of n would pass all test cases.
@@ -31,6 +32,7 @@ The overwhelming majority of contestants got this right.
 
 Highest score: 100/100 <br>
 Lowest score: 52/100 <br>
+Mean: 92/100 <br>
 Number of attempts: 7
 
 This problem was selected from Hackerrank's archives. It was intended to cover the 'ad hoc' type of programming contest problem, as no classical algorithmic or data structure techniques were required to answer it. Over half the people who attempted it got it right, however, it did slow down many contestants due to edge cases and off-by-one errors.
@@ -39,19 +41,20 @@ This problem was selected from Hackerrank's archives. It was intended to cover t
 
 Highest score: 37.50/125 (30%) <br>
 Lowest score: 12.50/125 (10%) <br>
+Mean: 25/125 (20%) <br>
 Number of attempts: 2
 
 This problem could also be considered to be an 'ad hoc' problem, but it required the contestants to use a sorting algorithm.
-I expected this problem to be less accesssible than the previous ones, but I (incorrectly) assumed that those with competitive programming experience
-would be able to solve it completely.
+I expected this problem to be less accesssible than the previous ones, but I (incorrectly) assumed that those with competitive programming experience would be able to solve it completely.
 
 ## Question 4 - Sherlock and the Valid String (125)
-Highest score: 110.30/125 (88.2%)<br>
+Highest score: 110.30/125 (88.2%) <br>
 Lowest score: 88.25/125 (70.6%) <br>
+Mean: 97.43/125 (77.9%) <br>
 Number of attempts: 4
 
 This systematic string searching problem received more submissions than Question 3.
-The scores seen seem to indicate that most contestants were well aware of the strategic advantage
+The scores seem to indicate that most contestants were well aware of the strategic advantage
 given by just taking whatever points they could, as opposed to trying to get a perfect score on a problem.
 While this is almost certainly a highly effective strategy for one-hour contests with partial scoring, I suspect
 that it might not be a very effective practicing technique for competitive programming in general.
@@ -59,7 +62,8 @@ that it might not be a very effective practicing technique for competitive progr
 ## Question 5 - Subest Component (150)
 Highest score: n/a <br>
 Lowest score: n/a <br>
-Number of attempts: 0/Unknown
+Mean: n/a <br>
+Number of attempts: 0
 
 This was a combinatorics and graph theory problem chosen to test those with a significant amount of competitive programming
 experience. Judging by the lack of submissions, it is clear that this was too difficult for a one hour contest.
@@ -67,6 +71,7 @@ experience. Judging by the lack of submissions, it is clear that this was too di
 ## Question 6 - String Reduction (150)
 Highest score: 0 <br>
 Lowest score: 0 <br>
+Mean: 0% <br>
 Number of attempts: 2
 
 This was a dynamic programming problem. Like Question 5, it was chosen to test those with a significant amount of competitive
