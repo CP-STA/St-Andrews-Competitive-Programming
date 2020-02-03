@@ -67,7 +67,7 @@ experience. Judging by the lack of submissions, it is clear that this was too di
 ## Question 6 - String Reduction (150)
 Highest score: 0 <br>
 Lowest score: 0 <br>
-Number of attempts: 0
+Number of attempts: 2
 
 This was a dynamic programming problem. Like Question 5, it was chosen to test those with a significant amount of competitive
 programming experience - this had more attempts than the other question, though. Perhaps due to graph theory problems tending to have
