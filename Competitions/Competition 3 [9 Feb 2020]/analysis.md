@@ -1,4 +1,4 @@
-# Analysis for contest beta 3 [9 Feb 2020]
+# Analysis for St Andrews competitive programming contest 3 [9 Feb 2020]
 
 **Setter: Vinh Quang Nguyen (quangvn2508)**
 
