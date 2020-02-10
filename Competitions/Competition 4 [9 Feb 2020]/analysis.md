@@ -1,13 +1,18 @@
-# Analysis for St Andrews competitive programming contest 3 [9 Feb 2020]
+# Analysis for contest beta 3 [9 Feb 2020]
 
 **Setter: Vinh Quang Nguyen (quangvn2508)**
 
 Link to challenge: https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-3
 
-## Statistic
+## Statistics
 
-* Total signup: 24 (included 2 signups after the end of contest)
-* Total participate in contest: 13
+* Total signups: 24 (included 2 signups after the end of contest)
+* Highest score: 567.9/600 (94.6%)
+* Lowest score: 100/600 (16.6%)
+* Mean: 250.2/600 (41.7%)
+* Median: 234.7/600 (39.1%)
+* Mode: 100/600 (16.6%)
+* Number of users who made at least one attempt: 13
 
 ## Question 1: String evaluation (easy)
 
@@ -15,7 +20,7 @@ Link to challenge: https://www.hackerrank.com/competitive-programming-st-andrews
 * Total submissions: 13
 * Success rate: 100% (13/13)
 * Fastest solver: philip\_a\_searcy (+1min)
-* Languages used: Python3, Java8, Cpp14
+* Languages used: Python 3, Java 8, Cpp14
 
 ### After contest
 * Total submissions: 2
@@ -23,54 +28,65 @@ Link to challenge: https://www.hackerrank.com/competitive-programming-st-andrews
 
 **Comment:** No comment.
 
-## Question 2: skyfall (medium)
+## Question 2: Skyfall (medium)
 
 ### During contest
-* Total submissions: 33
-* Success rate: 0% (0/33)
+* Total submissions made: 33
+* Number of users: 9
+* Mean: 40.1/100
+* Highest score: philip\_a\_searcy (95.6/100)
+* Lowest score: 0/100
+* Number of successful attempts: 0% (0/33)
 	** Error count**
 	* Wrong answers: 25
-	* Terminate due to timeout: 21
+	* Terminate due to timeout (TLE): 21
 	* Compilation error: 2
-	* runtime error: 24
-* Best solution: philip\_a\_searcy
-* Languages used: Python3, Java8, Cpp14
+	* Runtime error: 24
+* Languages used: Python 3, Java 8, Cpp14
 
 ### After contest
 * Total submussions: 8
 * Success rate: 25% (2/8)
 
-**Comment:** Bruteforce seem to be the most popular solutions. However, very few test cases required efficiency, therefore, majority of marks are still achievable.
+**Comment:** Bruteforce seem to be the most popular solution. However, very few test cases required efficiency, therefore, majority of marks were still achievable.
 
-## Question 3: kth digit of nth Fibonacci number (easy, suppose to be medium)
+## Question 3: kth digit of nth Fibonacci number (easy, supposed to be medium)
 
 ### During contest
 * Total submissions: 22
+* Number of users: 11
+* Mean: 101.8/150 (67.9%)
+* Highest score: 150/150 (100%)
+* Lowest score: 27.49/100 (18.3%)
 * Success rate: 22.7% (5/22)
 	** Error count**
 	* Wrong answers: 14 
 	* Runtime error: 17
 	* Terminate due to timeout: 1
 * Fastest solver: kanishkalikhanna (+9min)
-Languague used: Python3, Java8, Cpp14
+Languages used: Python3, Java8, Cpp14
 
 ### After contest
 Total submission: 3
 * Success rate: 0% (0/3)
 
-**Comment:** This question is unfair for those not using python. As a non-frequent python user, I was not expect it (to existed) to be able to deal with massive number. From my perspective, I was expecting contestants to handle large number using array or some sort of data structures. I am very sorry for those who not using python.
+**Comment:** This question was unfair for those not using python. As a non-frequent python user, I was not expecting it to be able to deal with large numbers (ie, those which exceed the limit of int). From my perspective, I was expecting contestants to handle large numbers using array or some sort of data structure. I am very sorry for those who not using python.
 
 ## Question 4: influenced sum (hard)
 
 ### During contest
 * Total submissions: 10
+* Number of users: 3
+* Highest score: 250/250 (100%)
+* Lowest score: 0/250 (0%)
+* Mean: 157.45/250 (63%)
 * Success rate: 10% (1/10)
 	** Error count**
 	* Wrong answers: 6
 	* Runtime error: 3
 	* Terminate due to timeout: 1
 * Fastest solver: moxis (+47min)
-Languague used: Python3, Cpp14
+Languages used: Python3, Cpp14
 
 ### After contest
 Total submission: 4
@@ -78,7 +94,7 @@ Total submission: 4
 
 **Comment:** The testcase is unfair for those using python. Generated testcase is being test using cpp, therefore, there is a problem when getting the input in python regarding the empty space at the end of lines.
 
-## Summary of successful solver during the contest:
+## Summary of successful users during the contest:
 Sorted by increasing solving time.
 **Question 1:** philip\_a\_searcy, moxis, kanishkalikhanna, sbt4104, jyim1120, allanmathew1, darshmanoj830, imauriceinoob, fifst3r, mohitvwagh, samueledoria, beaddiej, anas_halim_ah.
 **Question 2:** ...
