@@ -91,9 +91,9 @@ Total submission: 4
 
 **Comment:** The testcase is unfair for those using python. Generated testcase is being test using cpp, therefore, there is a problem when getting the input in python regarding the empty space at the end of lines.
 
-## Summary of successful users during the contest:
-Sorted by increasing solving time.
-**Question 1:** philip\_a\_searcy, moxis, kanishkalikhanna, sbt4104, jyim1120, allanmathew1, darshmanoj830, imauriceinoob, fifst3r, mohitvwagh, samueledoria, beaddiej, anas_halim_ah.
-**Question 2:** ...
-**Question 3:** kanishkalikhanna, moxis, jyim1120, philip\_a\_searcy, fifst3r.
-**Question 4:** moxis.
+## Summary of successful submissions during the contest:
+Sorted by increasing solving time. <br>
+**Question 1:** philip\_a\_searcy, moxis, kanishkalikhanna, sbt4104, jyim1120, allanmathew1, darshmanoj830, imauriceinoob, fifst3r, mohitvwagh, samueledoria, beaddiej, anas_halim_ah. <br>
+**Question 2:** ... (None) <br>
+**Question 3:** kanishkalikhanna, moxis, jyim1120, philip\_a\_searcy, fifst3r. <br>
+**Question 4:** moxis. <br>
