@@ -36,12 +36,11 @@ Link to challenge: https://www.hackerrank.com/competitive-programming-st-andrews
 * Mean: 40.1/100
 * Highest score: philip\_a\_searcy (95.6/100)
 * Lowest score: 0/100
-* Number of successful attempts: 0% (0/33)
-	** Error count**
-	* Wrong answers: 25
-	* Terminate due to timeout (TLE): 21
-	* Compilation error: 2
-	* Runtime error: 24
+* Number of successful attempts: 0% (0/33).
+    * Wrong answers: 25
+    * Terminate due to timeout (TLE): 21
+    * Compilation error: 2
+    * Runtime error: 24
 * Languages used: Python 3, Java 8, Cpp14
 
 ### After contest
@@ -59,10 +58,9 @@ Link to challenge: https://www.hackerrank.com/competitive-programming-st-andrews
 * Highest score: 150/150 (100%)
 * Lowest score: 27.49/100 (18.3%)
 * Success rate: 22.7% (5/22)
-	** Error count**
 	* Wrong answers: 14 
 	* Runtime error: 17
-	* Terminate due to timeout: 1
+	* Terminate due to timeout (TLE): 1
 * Fastest solver: kanishkalikhanna (+9min)
 Languages used: Python3, Java8, Cpp14
 
@@ -81,10 +79,9 @@ Total submission: 3
 * Lowest score: 0/250 (0%)
 * Mean: 157.45/250 (63%)
 * Success rate: 10% (1/10)
-	** Error count**
 	* Wrong answers: 6
 	* Runtime error: 3
-	* Terminate due to timeout: 1
+	* Terminate due to timeout (TLE): 1
 * Fastest solver: moxis (+47min)
 Languages used: Python3, Cpp14
 
