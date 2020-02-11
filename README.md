@@ -8,7 +8,7 @@ We are a small group of St Andrews students whose main intention is to improve o
 
 ## The contest
 
-It is a weekly programming competition (of approxmately one hour) where you solve fun and interesting programming problems on HackerRank. One of us typically sets the problem for that week.
+It is a weekly programming competition (of approxmately one hour) where you solve fun and interesting programming problems on HackerRank. One of us typically sets the problems for that week.
 
 ### Past contests
 
