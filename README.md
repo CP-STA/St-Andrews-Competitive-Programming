@@ -1,2 +1,19 @@
-# St-Andrews-Competitive-Programming
-Resources and questions from past contests
+# Competitive Programming St Andrews Beta
+
+This repository contains the resources and questions from past contests, held every weekly from 2 PM to 3 PM GMT on HackerRank.
+
+## Who are we?
+
+We are a small group of St Andrews students whose main intention is to improve our algorithmic and problem solving skills. This will prepare one for competitive programming competitions as well as help one ace technical coding interviews.
+
+## The contest
+
+It is a weekly programming competition (of approxmately one hour) where you solve fun and interesting programming problems on HackerRank. One of us typically sets the problem for that week.
+
+### Past contests
+
+They can be found (here)[/Competitions]. Analysis, and in some cases, solutions and editorials can be found there. If not here, they can be found on the contest page itself (under the "Editorial" section), where test cases can also be downloaded.
+
+### Past winners
+
+The leaderboard for each contest can be found on the contest page itself.
