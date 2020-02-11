@@ -12,7 +12,7 @@ It is a weekly programming competition (of approxmately one hour) where you solv
 
 ### Past contests
 
-They can be found (here)[/Competitions]. Analysis, and in some cases, solutions and editorials can be found there. If not here, they can be found on the contest page itself (under the "Editorial" section), where test cases can also be downloaded.
+They can be found [here](/Competitions). Analysis, and in some cases, solutions and editorials can be found there. If not here, they can be found on the contest page itself (under the "Editorial" section), where test cases can also be downloaded.
 
 ### Past winners
 
