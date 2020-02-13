@@ -2,7 +2,7 @@
 
 This repository contains the resources and questions from past contests, held every weekly from 2 PM to 3 PM GMT on HackerRank.
 
-## Sign up for next contest 
+## Sign up for the next contest 
 
 https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-4
 
