@@ -26,6 +26,8 @@ The hardest questions usually involve graphs (one example being Influenced Sum (
 Most questions do not require advanced mathematical knowledge, though knowledge of discrete maths is useful in general.
 
 And a note about the programming language: we don't care, and the problem setters usually keep most (if not all) languages open, including estoric languages like Brainf**k (though there is no guarantee that the problem can be solved in such a language). Most contestants use Java, Python and C++, as all of these three languages offer powerful library functions which would greatly help in solving problems under a time constraint.
+
+**Note that none of what was mentioned above stops you from learning the material yourself, and that is infact the highly recommended approach.** This will give you a significant headstart in future modules you take as well. There are a variety of resources to pick from; good places include LeetCode, HackerRank and GeeksForGeeks (for learning about a new concept). It is also **strongly** recommended to take part in contests (this gives you a good way of seeing where you are and helps you to learn from past mistakes); all of us do it. Popular places to do that are LeetCode's Biweekly contests and Google's trio of competitions (HashCode, Kickstart and CodeJam).
 ### Past contests
 
 They can be found [here](/Competitions). Analysis, and in some cases, solutions and editorials can be found there. If not here, they can be found on the contest page itself (under the "Editorial" section), where test cases can also be downloaded.
