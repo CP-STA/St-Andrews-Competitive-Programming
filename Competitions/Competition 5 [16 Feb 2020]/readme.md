@@ -28,7 +28,7 @@ Number of users that made an attempt: 5 <br>
 
 *Difficulty - Easy*
 
-This question was posed as a straightforward dynamic programing problem that asked users to find the maximum amount of money he can spend on four drinks within a budget, and is conceptually similar to LeetCode's Coin Change problem. While some users managed to spot this rightaway, it was (fortunately!) also possible to brute-force the solution in O(n<sup>4</sup>), which would also earn full points. Overall, if brute-force wasn't an option, then this question would be much harder than what one would expect for a Q1 (which is typically a "gimme").
+This question was posed as a straightforward dynamic programing problem that asked users to find the maximum amount of money he can spend on four drinks within a budget, and is conceptually similar to LeetCode's Coin Change problem. While some users managed to spot this right away, it was (fortunately!) also possible to brute-force the solution in O(n<sup>4</sup>), which would also earn full points. Overall, if brute-force wasn't an option, then this question would be much harder than what one would expect for a Q1 (which is typically a "gimme").
 
 The setter in his Editorial uses an interesting approach using a sieve sieve (in O(n)), but traditional DP methods would also work.
 
@@ -41,7 +41,7 @@ Number of users that made an attempt: 3
 
 *Difficulty - Medium*
 
-As can be inferred from the title, this question was dedicated to Philip Searcy, who did not show up for the contest but did it later. For a Q2, this question ended up being harder than expected again, with classic O(n<sup>3</sup>) (which would get zero points) and O(n<sup>2</sup>) soluions not working. The most common approach would be to look up on the internet: a closed-form expression would be ([n)/48); however ([n) in tihs case refers to the nearest integer function (and that is *not* equal to the greatest integer function which some mistook it for, though this would have still allowed gaining a substantial number of points). However, the setter expected an O(n) solution, which no-one did during the competition. Overall, this question was pretty difficult for Medium if one did not know (or look up) the O(1) solution for this problem.
+As can be inferred from the title, this question was dedicated to Philip Searcy, who did not show up for the contest but did it later. For a Q2, this question ended up being harder than expected again, with classic O(n<sup>3</sup>) (which would get zero points) and O(n<sup>2</sup>) solutions not working. The most common approach would be to look up on the internet: a closed-form expression would be ([n)/48); however [n) in this case refers to the nearest integer function (and that is *not* equal to the greatest integer function which some mistook it for, though this would have still allowed gaining a substantial number of points). However, the setter expected an O(n) solution, which no-one did during the competition. Overall, this question was difficult for Medium if one did not know (or look up) the O(1) solution for this problem.
 
 ## Question 3 - Sorting a Leaderboard (150)
 
