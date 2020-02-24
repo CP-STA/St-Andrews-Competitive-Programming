@@ -2,7 +2,7 @@
 
 *Setter: Nguyen Nguyen*<br>
 *Validated by Wang Nguyen*<br>
-*Reported by Leaderboard* (Nguyen really didn't want to write this for some reason)
+*Reported by Leaderboard* 
 
 Link to challenges: https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-4
 
@@ -30,7 +30,7 @@ Number of users that made an attempt: 5 <br>
 
 This question was posed as a straightforward dynamic programing problem that asked users to find the maximum amount of money he can spend on four drinks within a budget, and is conceptually similar to LeetCode's Coin Change problem. While some users managed to spot this right away, it was (fortunately!) also possible to brute-force the solution in O(n<sup>4</sup>), which would also earn full points. Overall, if brute-force wasn't an option, then this question would be much harder than what one would expect for a Q1 (which is typically a "gimme").
 
-The setter in his Editorial uses an interesting approach using a sieve sieve (in O(n)), but traditional DP methods would also work.
+The setter in his Editorial uses an interesting approach using a sieve (in O(n)), but traditional DP methods would also work.
 
 ## Question 2 - Phillip's Running Routes (100)
 
