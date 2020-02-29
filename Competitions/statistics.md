@@ -1,4 +1,4 @@
-## Contest statistics
+# Contest statistics
 
 Curious on how each contest staked up statistically? This page briefly lists the mean, median and mode score of every contest, normalised to 100.
 
@@ -9,3 +9,13 @@ Curious on how each contest staked up statistically? This page briefly lists the
 | [4](Competition%204%20[9%20Feb%202020])  | 41.7  | 39.1  | 16.6  | 94.6  | 16.6  | 13  |
 | [5](Competition%205%20[16%20Feb%202020]/readme.md)  |  12.6 | 10  | 10  | 24.9  | 7.9  | 5  |
 | [6](Competition%206%20[23%20Feb%202020]/readme.md)  | 19.5  | 17.2  | 10  | 35  | 5.5  | 10  |
+
+The below table gives the averages for each question attempted in percentage. Note the fact that the weighting by question would vary for each contest, and we only consider users that made a submission (not all the participants).
+
+| Contest number | Q1   | Q2   | Q3   | Q4   | Q5 | Q6 | Overall |
+|----------------|------|------|------|------|----|----|---------|
+| [2](Competition%202/Analysis.md) | 100  | 100  | 63.6 | 32.8 |    |    | 46.3    |
+| [3](Competition%203/Analysis.md) | 94.4 | 92   | 20   | 77.9 | 0  | 0  | 27      |
+| [4](Competition%204%20[9%20Feb%202020])| 100  | 40.1 | 67.9 | 63   |    |    | 41.7    |
+| [5](Competition%205%20[16%20Feb%202020]/readme.md)| 95.7 | 25   | 0    | 0    |    |    | 12.6    |
+| [6](Competition%206%20[23%20Feb%202020]/readme.md)| 95   | 70.2 | 45.2 | 0    |    |    | 19.5    |
