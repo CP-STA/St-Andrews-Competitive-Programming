@@ -130,7 +130,7 @@ def np_tiling(n, m):
 
 A small bug meant that one test case had a typo in its expected answer, but that did not affect the overall results of this question.
 
-##Q3: Mystery functions 1 (0)
+## Q3: Mystery functions 1 (0)
 
 This question was meant to resemble a miniature Google HashCode-type question (where there is no 'correct' answer and the goal there is to gain the maximum you can), and it was also the very first question to make use of HackerRank's _approximation_ question type. The objective of the question was to find the missing value among a set of values given by an unknown function which could have been one of several different types.
 
