@@ -9,6 +9,7 @@ Curious on how each contest staked up statistically? This page briefly lists the
 | [4](Competition%204%20[9%20Feb%202020])  | 41.7  | 39.1  | 16.6  | 94.6  | 16.6  | 13  |
 | [5](Competition%205%20[16%20Feb%202020]/readme.md)  |  12.6 | 10  | 10  | 24.9  | 7.9  | 5  |
 | [6](Competition%206%20[23%20Feb%202020]/readme.md)  | 19.5  | 17.2  | 10  | 35  | 5.5  | 10  |
+| [7](Competition%207%20[1%20Mar%202020]/readme.md) | 50.3 | 44.9 | null | 88.5 | 14.4 | 9
 
 The below table gives the averages for each question attempted in percentage. Note the fact that the weighting by question would vary for each contest, and we only consider users that made a submission (not all the participants).
 
@@ -19,3 +20,4 @@ The below table gives the averages for each question attempted in percentage. No
 | [4](Competition%204%20[9%20Feb%202020])| 100  | 40.1 | 67.9 | 63   |    |    | 41.7    |
 | [5](Competition%205%20[16%20Feb%202020]/readme.md)| 95.7 | 25   | 0    | 0    |    |    | 12.6    |
 | [6](Competition%206%20[23%20Feb%202020]/readme.md)| 95   | 70.2 | 45.2 | 0    |    |    | 19.5    |
+| [7](Competition%207%20[1%20Mar%202020]/readme.md) | 94.9 | 48.3 | null | 49 | | | 50.3|
