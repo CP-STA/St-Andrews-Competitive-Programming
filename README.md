@@ -1,3 +1,4 @@
+![logo](/asssets/logo.png)
 # Competitive Programming St Andrews Beta
 
 This repository contains the resources and questions from past contests, held weekly from 2 PM to 3 PM GMT on HackerRank.
@@ -35,3 +36,8 @@ They can be found [here](/Competitions). Analysis, and in some cases, solutions 
 ### Past winners
 
 The leaderboard for each contest can be found on the contest page itself.
+
+## Follow us
+
+We're now on Facebook! https://www.facebook.com/CompetitiveProgrammingStAndrews/
+
