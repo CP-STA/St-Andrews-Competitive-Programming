@@ -5,7 +5,7 @@ This repository contains the resources and questions from past contests, held we
 
 ## Sign up for the next contest 
 
-https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-8
+https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-9
 
 ## Who are we?
 
