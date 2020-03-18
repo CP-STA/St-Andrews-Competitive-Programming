@@ -17,7 +17,7 @@ contest itself, the problem setter sincerely apologises for this.
 
 All three problems were written by the contest setter.
 
-Number of contestants who made a submission: 10 <br>
+Number of contestants who made a submission: 4 <br>
 Highest score: 100/450 (22.2%)<br>
 Lowest score: 0.00/450 (0.0%)<br>
 Mean: 50.83/450 (11.3%)<br>
