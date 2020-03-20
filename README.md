@@ -40,5 +40,6 @@ The leaderboard for each contest can be found on the contest page itself.
 ## Follow us
 
 Facebook: https://www.facebook.com/CompetitiveProgrammingStAndrews/
+
 Linkedin: https://www.linkedin.com/company/competitive-programming-st-andrews/
 
