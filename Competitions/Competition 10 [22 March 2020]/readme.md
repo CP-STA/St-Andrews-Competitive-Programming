@@ -1,6 +1,7 @@
 # Competition 9 Analysis
 
 *Setter: Kanishk Ali Khanna*
+*Testers: Vinh Quang Nguyen and Philip Searcy*
 
 Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-9/challenges
 
