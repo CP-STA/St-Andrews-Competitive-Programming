@@ -1,4 +1,4 @@
-![logo](asssets/logo.png)
+![logo](assets/logo.png)
 # Competitive Programming St Andrews Beta
 
 This repository contains the resources and questions from past contests, held weekly from 2 PM to 3 PM GMT on HackerRank.
