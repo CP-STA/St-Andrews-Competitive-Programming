@@ -65,7 +65,7 @@ def a_boring_game(n):
 
 A small minority did not get full points on this problem, and one mostly tried to generate all permutations. Due to the low constraints, that solution still did pretty well, but ran into TLE issues on the last test case. Another submission forgot to change the data type into long, and yet another didn't even loop at all (hence passing only one test case). Overall though, this was very well done.
 
-# Q2: Quarantining passengers (35)
+## Q2: Quarantining passengers (35)
 
 *Difficulty: Medium*
 
@@ -180,7 +180,7 @@ def quarantining_passengers(passengers, positive_passengers):
 
 Unfortunately, every other solution got the same 1.35/35 score.
 
-# Q3: Miniature Notepad (35)
+## Q3: Miniature Notepad (35)
 
 *Difficulty - Medium*
 
