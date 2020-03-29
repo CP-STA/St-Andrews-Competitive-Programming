@@ -1,4 +1,4 @@
-# Analysis for Contets 10
+# Analysis for Contest 10
 
 *Setter: Leaderboard*
 
@@ -12,7 +12,7 @@ This contest went well. It is the first contest to ever be held in partnership (
 
 As with the contest itself, we had a good set of scores, with Q2 being the question that separated most contestants. This contest also had a first in that it is the first ever contest to have a perfect score (90/90), congratulations to Nguyen Nguyen for achieving this.
 
-Personally, I thought that the contest would be somewhat higher scoring than usual, but the statistics were in line with other contests, partially due to many people finding Q2 and Q3 tricky to get more than a few points.
+Personally, I thought that the contest would be somewhat higher scoring than usual (as there weren't any "hard" questions unlike past contests), but the statistics were in line with other contests, partially due to many people finding Q2 and Q3 tricky to get more than a few points.
 ### Statistics
 
 Mean = 31.3/90 (34.8%) <br>
@@ -330,3 +330,4 @@ string = input().strip()
 print(solve(string))
 ```
 
+It should be noted that the question contained a mistake in the description, which one contestant rightly alerted me as it did not match with the sample input. This was quickly fixed, and there is no evidence that affected any contestant's performance.
