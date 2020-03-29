@@ -232,7 +232,9 @@ This problem was inspired by the Code Con Challenger Series question "Travel to 
 
 LeetCode 797: https://leetcode.com/problems/all-paths-from-source-to-target/ will also useful reference in order to generate all possible paths.
 
-Solution with comments: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-9/challenges/leu-kgx/editorial. A successful submission by a contestant in Python is given below:
+Solution with comments: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-9/challenges/leu-kgx/editorial 
+
+A successful submission by a contestant in Python is given below:
 
 ```python
 #!/bin/python3
