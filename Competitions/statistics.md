@@ -1,6 +1,6 @@
 # Contest statistics
 
-Curious on how each contest staked up statistically? This page briefly lists the mean, median and mode score of every contest, normalised to 100.
+Curious on how each contest staked up statistically? This page briefly lists the mean, median and mode score of every contest, normalised to 100. Note that the caliber of contestants can influence the statistics significantly (not just the difficulty).
 
 | Contest number  | Mean  |  Median |  Mode |  Highest | Lowest  |  Participants |
 |---|---|---|---|---|---|---|
@@ -13,6 +13,7 @@ Curious on how each contest staked up statistically? This page briefly lists the
 | [8](Competition%208%20[8%20Mar%202020]/readme.md) | 11.3 | 11.5 | null | 22.2 | 0 | 4
 | [9](Competition%209%20[15%20Mar%202020]/Editorial.pdf)|29.6|20|20|75.8|0.3|16
 | [10](Competition%2010%20[22%20Mar%202020]/readme.md)|20|20|20|20|20|7
+| [11](Competition%2011%20[29%20Mar%202020]/readme.md)|34.8|23.7|23.7|100|2.2|17
 
 The below table gives the averages for each question attempted in percentage. Note the fact that the weighting by question would vary for each contest, and we only consider users that made a submission (not necessarily all the participants).
 
@@ -24,6 +25,7 @@ The below table gives the averages for each question attempted in percentage. No
 | [5](Competition%205%20[16%20Feb%202020]/readme.md)| 95.7 | 25   | 0    | 0    |    |    | 12.6    |
 | [6](Competition%206%20[23%20Feb%202020]/readme.md)| 95   | 70.2 | 45.2 | 0    |    |    | 19.5    |
 | [7](Competition%207%20[1%20Mar%202020]/readme.md) | 94.9 | 48.3 | null | 49 | | | 50.3|
-| [8](Competition%208%20[8%20Mar%202020]/readme.md) | 61.1 | 6.7 | 0 | null | | | 11.3|
-| [9](Competition%209%20[15%20Mar%202020]/Editorial.pdf) | 89.8 | 46.7 | 70.2 | null | | | 29.6|
-| [10](Competition%2010%20[22%20Mar%202020]/readme.md)|100|0|0|null| | | 20 |
+| [8](Competition%208%20[8%20Mar%202020]/readme.md) | 61.1 | 6.7 | 0 |  | | | 11.3|
+| [9](Competition%209%20[15%20Mar%202020]/Editorial.pdf) | 89.8 | 46.7 | 70.2 |  | | | 29.6|
+| [10](Competition%2010%20[22%20Mar%202020]/readme.md)|100|0|0| | | | 20|
+| [11](Competition%2011%20[29%20Mar%202020]/readme.md)|93.5|31.4|26.2| | | |34.8| 
