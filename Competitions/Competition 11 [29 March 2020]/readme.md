@@ -330,4 +330,49 @@ string = input().strip()
 print(solve(string))
 ```
 
+I saw a solution after the contest that read in the string by character. This is actually a really good idea, as it avoids having to take in a large string (which in itself will affect complexity), and in the absence of an optimised solution, can get quite a lot of points when implemented correctly (the below got over 75%). This is sort of language dependent - it is not trivial to do this in Java (as it is hard to determine whether EOF/end of string is reached) and my reference solution didn't do that.
+
+```c++
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    vector<char> s;
+    char x;
+    int index=0,end=0;
+    while(cin>>x)
+    {
+    switch (x)
+    {
+        case '-':
+            if(index>0)
+                index--;
+            break;
+        case '+':
+            break;
+        case '@':
+            index=0;
+            break;
+        case '#':
+            index=end;
+            break;
+        case '^':
+            index=0;
+            end=0;
+            s.clear();
+            break;
+        default:
+            if(index<end)
+                s.insert(s.begin()+index,x);
+            else
+                s.push_back(x);
+            index++;
+            end++;
+            
+    }
+    }
+    for(int i=0;i<s.size();i++)
+        cout<<s[i];
+    return 0;
+}
+```
+
 It should be noted that the question contained a mistake in the description, which one contestant rightly alerted me as it did not match with the sample input. This was quickly fixed, and there is no evidence that affected any contestant's performance.
