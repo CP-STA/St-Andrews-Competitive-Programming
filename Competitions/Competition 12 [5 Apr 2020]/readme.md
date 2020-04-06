@@ -1,5 +1,7 @@
 # Analysis and overall comments for Competition 12
 
+> Please note that the statistics are incorrect right now as the scoreboard needs to be redrawn. In particular, many will get full scores on Q3 as the maximum score has been reduced as a result, and Q2 will be entirely written off. - Leaderboard, 6/4
+
 *Setter: Philip Searcy*
 
 Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-11/challenges
