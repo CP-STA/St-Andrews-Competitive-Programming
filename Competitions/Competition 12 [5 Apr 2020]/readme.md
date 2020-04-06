@@ -26,9 +26,9 @@ Mode: 50.00/225
 
 Highest score: 50/50 <br>
 Lowest score: 0/50 <br>
-Mean: 36.5/50
-Median: 50/50
-Mode: 50/50
+Mean: 36.5/50 (73%) <br>
+Median: 50/50 (100%) <br>
+Mode: 50/50 (100%) <br>
 Number of contestants who attempted: 18
 
 This question was designed to be an approachable starting problem which required little more than a some knowledge of basic physics. One liner solutions were possible, and were indeed seen in submissions.
