@@ -41,9 +41,9 @@ The solution code for this question had a fundamental flaw (essentially, the sol
 
 Highest score: 87.5/100 <br>
 Lowest score: 62.5/100 <br>
-Mean: 82.5/100
-Median: 87.5/100
-Mode: 87.5/100
+Mean: 82.5/100 <br>
+Median: 87.5/100 <br>
+Mode: 87.5/100 <br>
 Number of contestants who attempted: 5
 
 This problem was quite simple for those with a knowledge of the flood
