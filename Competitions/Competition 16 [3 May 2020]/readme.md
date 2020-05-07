@@ -135,7 +135,7 @@ However, if we strictly look at time complexities, a better idea would have been
 
 ## Q3: Equation basis
 
-Mean: 50% (1/3) <br>
+Mean: 33.3% (1/3) <br>
 Difficulty: Medium
 
 This was a problem that asked users to determine whether a series of equations is a basis or not, and even if MT2501 wasn't taken (where the concept of basis is taught), the question gave enough indication on what was needed to be done. One of the main challenges with this problem (which was intentional) was to handle the tricky input, which I would personally describe as "pesky". There were different approaches taken - those that separated irrespective of what the number went fine - unfortunately a typo in the constraints led some users to separate by the first digit of the number (as it was originally given as -5 to 5). Such answers ended up getting run-time errors on a few test cases.
