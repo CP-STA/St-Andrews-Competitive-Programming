@@ -1,4 +1,4 @@
-#Competition 14 Analysis
+# Competition 14 Analysis
 *Setter: Kanishk Ali Khanna*
 
 Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-14/challenges
