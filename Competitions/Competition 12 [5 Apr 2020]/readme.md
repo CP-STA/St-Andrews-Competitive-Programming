@@ -1,6 +1,6 @@
 # Analysis and overall comments for Competition 12
 
-> Please note that the statistics are incorrect right now as the scoreboard needs to be redrawn. In particular, many will get full scores on Q3 as the maximum score has been reduced as a result, and Q2 will be entirely written off. - Leaderboard, 6/4
+> The maximum score of this contest is 135, not 225.
 
 *Setter: Philip Searcy*
 
@@ -39,11 +39,11 @@ The solution code for this question had a fundamental flaw (essentially, the sol
 
 ## Question 3 - MIROH (100)
 
-Highest score: 87.5/100 <br>
-Lowest score: 62.5/100 <br>
-Mean: 82.5/100 <br>
-Median: 87.5/100 <br>
-Mode: 87.5/100 <br>
+Highest score: 87.5/87.5 (100%)<br>
+Lowest score: 62.5/87.5 (71.4%)<br>
+Mean: 82.5/87.5 (94.3%) <br>
+Median: 87.5/87.5 (100%)<br>
+Mode: 87.5/87.5 (100%)<br>
 Number of contestants who attempted: 5
 
 This problem was quite simple for those with a knowledge of the flood
