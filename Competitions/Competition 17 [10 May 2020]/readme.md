@@ -12,9 +12,6 @@ The contest was made in a short amount of time, therefore, the time limit restri
 
 * **Highest score:** 100 / 100 - Achieved by reinis_cirpons
 
-* Problem solution, testcase generator, and testcases will be available at 
-[Link](https://github.com/quangvn2508/CPStA-problem-setter/tree/master/Contest_W16)
-
 ### Question 1 - Nancy and snow skiing
 
 * **Success Rate:** 82.35%
