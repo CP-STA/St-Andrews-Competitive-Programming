@@ -41,7 +41,7 @@ solve this question in under 2 minutes.
 Solution with comments: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-14/challenges/maximum-subsequence-sum/editorial
 
 ## Question 2: LEU - KGX 2
-Link to challenge: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-14/challenges/number-of-robots/editorial
+Link to challenge: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-14/challenges/leu-kgx-2
 
 Highest score: 40/40 <br>
 Lowest score: 0/40 <br>
