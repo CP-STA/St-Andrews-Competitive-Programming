@@ -7,8 +7,6 @@ This repository contains the resources and questions from past contests, held we
 
 https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-18
 
-<b>This Contest will be at the usual time 2-3pm (UK Time) </b>
-
 ## Who are we?
 
 We are a small group of St Andrews students whose main intention is to improve our algorithmic and problem solving skills. This will prepare one for competitive programming competitions as well as help one ace technical coding interviews.
