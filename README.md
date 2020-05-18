@@ -5,9 +5,9 @@ This repository contains the resources and questions from past contests, held we
 
 ## Sign up for the next contest 
 
-https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-17
+https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-18
 
-<b>Important: the time for this contest is one hour later than usual; that is, from 3 to 4 PM UK time. This is due to Google Kickstart, which would otherwise conflict with this contest. </b>
+<b>This Contest will be at the usual time 2-3pm (UK Time) </b>
 
 ## Who are we?
 
