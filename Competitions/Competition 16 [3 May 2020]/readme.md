@@ -6,7 +6,7 @@ Link to challenges: https://www.hackerrank.com/contests/competitive-programming-
 
 ## Overall notes
 
-This contest went well, despite the disappointing number of users taking part (8) considering that many more took part in the last few contests. This was the first contest to disable partial marking, which was partially due to Q3's structure being unsuitable, and a minor penalty of 3 minutes was applied for any incorrect submission. That itself was close to making a difference in the ranks - a couple of minutes less and the second placed contestant would have won if their penalites were removed. <br> Unfortunately, a significant number of users got zeros as well, and this contributed to the average being in line with other contests despite the contest otherwise being very straightforward.
+This contest went well, despite the disappointing number of users taking part (8) considering that many more took part in the last few contests. This was the first contest to disable partial marking, which was partially due to Q3's structure being unsuitable, and a minor penalty of 3 minutes was applied for any incorrect submission. That itself was close to making a difference in the ranks - a couple of minutes less and the second placed contestant would have won if their penalties were removed. <br> Unfortunately, a significant number of users got zeros as well, and this contributed to the average being in line with other contests despite the contest otherwise being very straightforward.
 
 There was an error in the constraints for Q3. While that did not affect correctness, it did unfortunately cause a couple of users' submissions to go wrong, as they tended to separate by numbers. This error is regretted.
 
