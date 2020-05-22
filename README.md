@@ -7,6 +7,12 @@ This repository contains the resources and questions from past contests, held we
 
 https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-18
 
+This contest is held in collaboration with OpenHacks (https://hack.theopencode.org/).
+
+<b> Open Contest 1 </b> - https://www.hackerrank.com/cpsta-open-contest-1.
+
+> What is the **Open Contest**? It is a series of past contest problems packed up where you can all solve problems in a span of 28 hours. This was created by request of OpenHacks (https://hack.theopencode.org/) who wanted a contest that could be done by those where the regular contest would not be suitable. Note that the wide time span maeans that *anyone* around the world will be able to attempt the problems, so do give it a go even if you've done some of our past problems!
+
 ## Who are we?
 
 We are a small group of St Andrews students whose main intention is to improve our algorithmic and problem solving skills. This will prepare one for competitive programming competitions as well as help one ace technical coding interviews.
