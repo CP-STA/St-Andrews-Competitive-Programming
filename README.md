@@ -11,7 +11,7 @@ This contest is held in collaboration with OpenHacks (https://hack.theopencode.o
 
 <b> Open Contest 1 </b> - https://www.hackerrank.com/cpsta-open-contest-1.
 
-> What is the **Open Contest**? It is a series of past contest problems packed up where you can all solve problems in a span of 28 hours. This was created by request of OpenHacks (https://hack.theopencode.org/) who wanted a contest that could be done by those where the regular contest would not be suitable. Note that the wide time span maeans that *anyone* around the world will be able to attempt the problems, so do give it a go even if you've done some of our past problems!
+> What is the **Open Contest**? It is a series of past contest problems packed up where you can all solve interesting problems in a span of 28 hours. This was created by request of OpenHacks (https://hack.theopencode.org/) who wanted a contest that could be done by those where the regular contest would not be suitable. Note that the wide time span maeans that *anyone* around the world will be able to attempt the problems, so do give it a go even if you've done some of our past contests!
 
 ## Who are we?
 
