@@ -5,17 +5,9 @@ This repository contains the resources and questions from past contests, held we
 
 ## Sign up for the next contest 
 
-https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-18
+https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-20
 
-*From 2 PM UK time (9 AM EDT, 6:30 PM IST) to 3 PM (10 AM EDT, 7:30 PM IST) on Sunday May 24* 
-
-This contest is held in collaboration with OpenHacks (https://hack.theopencode.org/).
-
-<b> Open Contest 1 </b> - https://www.hackerrank.com/cpsta-open-contest-1.
-
-*From 6 PM UK time (1 PM EDT) on Saturday May 23 to 8 PM UK time (3 PM EDT) on Sunday May 24*
-
-> What is the **Open Contest**? It is a series of past contest problems packed up where you can all solve interesting problems in a span of 28 hours. This was created by request of OpenHacks (https://hack.theopencode.org/) who wanted a contest that could be done by those where the timing of the regular contest would not be suitable. Note that the wide time span means that *anyone* around the world will be able to attempt the problems, so do give it a go even if you've done some of our past contests!
+*From 2 PM UK time (9 AM EDT, 6:30 PM IST) to 3 PM UK Time (10 AM EDT, 7:30 PM IST) on Sunday May 31* 
 
 ## Who are we?
 
