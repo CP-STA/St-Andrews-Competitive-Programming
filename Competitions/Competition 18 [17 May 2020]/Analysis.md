@@ -1,8 +1,8 @@
-# Analysis and overall comments for Competition 12
+# Analysis and overall comments for Competition 18
 
 *Setter: Philip Searcy*
 
-Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-11/challenges
+Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-17/challenges
 
 ## Overall comments
 
