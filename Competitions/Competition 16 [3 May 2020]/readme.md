@@ -140,7 +140,7 @@ Difficulty: Medium
 
 This was a problem that asked users to determine whether a series of equations is a basis or not, and even if MT2501 wasn't taken (where the concept of basis is taught), the question gave enough indication on what was needed to be done. One of the main challenges with this problem (which was intentional) was to handle the tricky input, which I would personally describe as "pesky". There were different approaches taken - those that separated irrespective of what the number went fine - unfortunately a typo in the constraints led some users to separate by the first digit of the number (as it was originally given as -5 to 5). Such answers ended up getting run-time errors on a few test cases.
 
-There were a couple of approaches taken by users (again some of which came after the contest). The most common approach was to take determinants: if Ax = 0, then |A| = 0 implies that the system is a basis. This is computationally intensive (hence the constraints), but my reference solution also did this and I did not require more efficient methods for this problem:
+There were a couple of approaches taken by users (again some of which came after the contest). The most common approach was to take determinants: if Ax = 0, then |A| = 0 implies that the system is <i>not </i>a basis. This is computationally intensive (hence the constraints), but my reference solution also did this and I did not require more efficient methods for this problem:
 
 ```java
 import java.io.*;
