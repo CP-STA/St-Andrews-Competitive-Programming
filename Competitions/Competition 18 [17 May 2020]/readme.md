@@ -21,7 +21,7 @@ Mode: 20/75 (26.67%)
 ## Question 1 - Run Away (20)
 
 Highest score: 20/20 <br>
-Lowest score: 20/50 <br>
+Lowest score: 20/20 <br>
 Mean: 20/20 <br>
 Median: 20/20 <br>
 Mode: 20/20 <br>
@@ -34,8 +34,8 @@ for the primality testing of individual numbers.
 ## Question 2 - Silver Spoon (25)
 
 Highest score: 25/25 <br>
-Lowest score: 7.89/25 <br>
-Mean: 19.21/25 <br>
+Lowest score: 7.89/25 (31.6%)<br>
+Mean: 19.21/25 (76.8%)<br>
 Median: 25/25 <br>
 Mode: 25/25 <br>
 Number of contestants who attempted: 5
@@ -48,14 +48,14 @@ same test cases as Question 1 - this issue was fixed when spotted, and did not h
 
 Highest score: 30/30 <br>
 Lowest score: 0/30 <br>
-Mean: 8.64/30 <br>
-Median: 4.09/30 <br>
+Mean: 8.64/30 (28.8%)<br>
+Median: 4.09/30 (13.6%)<br>
 Mode: 0/30 <br>
 Number of contestants who attempted: 6
 
 This problem was obtained from the HackerRank archives, and was intended to
 be solved with a dynamic programming approach. The constraints given were
 slightly misleading, as it was possible to interpret '1 <= n <= 2 x 10^5' as the
-'maximum' input being 200005, as opposed to maximum number of characters in the
+'maximum' input being 200000, as opposed to maximum number of characters in the
 input string being 2 x 10^5. The problem setter apologises for any inconveniences
 caused by this.
