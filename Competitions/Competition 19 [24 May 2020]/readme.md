@@ -44,7 +44,7 @@ The student has a few choices each day he/she is travelling. At a particular day
 
 Solution with comments: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-18/challenges/leu-kgx-3/editorial 
 
-A successful submission after the contest by a candidate that also used dynamic programming with memoization is given below:
+A successful submission after the contest by a candidate that also used dynamic programming is given below:
 
 ```python3
 #!/bin/python3
