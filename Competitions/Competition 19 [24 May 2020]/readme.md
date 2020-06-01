@@ -1,4 +1,4 @@
-# Competition 18 Analysis  
+# Contest Analysis  
 Setter: Kanishk Ali Khanna 
 
 Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-18/challenges 
