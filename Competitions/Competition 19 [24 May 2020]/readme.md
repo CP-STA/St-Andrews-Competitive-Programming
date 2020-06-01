@@ -3,7 +3,8 @@ Setter: Kanishk Ali Khanna
 
 Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-18/challenges 
 
-##Overall comments 
+# Overall comments 
+
 This competition had a total of 3 questions and it turned out to be harder than expected. Most contestants had only made submissions to the ﬁrst problem and that took longer than intended. It was good to see that one contestant was able to solve question 3 with the appropriate segment tree/fenwick tree optimization and a few more were able to solve it after the contest.
 
 ## Statistics
