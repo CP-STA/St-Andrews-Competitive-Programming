@@ -4,7 +4,8 @@ Setter: Kanishk Ali Khanna
 Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-18/challenges 
 
 ##Overall comments 
-This competition had a total of 3 questions and it turned out to be harder than expected. Most contestants had only made submissions to the ﬁrst problem and that took longer than intended. It was good to see that one contestant was able to solve question 3 with the appropriate segment tree/fenwick tree optimization and a few more were able to solve it after the contest.  
+This competition had a total of 3 questions and it turned out to be harder than expected. Most contestants had only made submissions to the ﬁrst problem and that took longer than intended. It was good to see that one contestant was able to solve question 3 with the appropriate segment tree/fenwick tree optimization and a few more were able to solve it after the contest.
+
 ## Statistics
 Number of contestants who made a submission: 12 <br>
 Highest score: 60/100 <br>
@@ -42,7 +43,7 @@ The student has a few choices each day he/she is travelling. At a particular day
 
 Solution with comments: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-18/challenges/leu-kgx-3/editorial 
 
-A successful submission after the contest by a candidate that also used dynamic programming with memosiation is given below:
+A successful submission after the contest by a candidate that also used dynamic programming with memoization is given below:
 
 ```python3
 #!/bin/python3
