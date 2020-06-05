@@ -81,7 +81,7 @@ def solve(planned_travel_days):
 ```
 
 ## Question 3: Palindrome Query Update  (2pts, 8pts, 30pts) 
-Link to challenge: https://www.hackerrank.com/contests/competitive-programming-standrews-beta-contest-18/challenges/palindrome-query-update <br>
+Link to challenge: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-18/challenges/palindrome-query-update <br>
 Highest score: 40/40  (100%) <br>
 Lowest score: 1.4/40 (3.5%) <br> 
 Mean: 11.35/40 (28.4%) <br>
@@ -91,7 +91,7 @@ Difficulty: Hard
 This question was intended to be easy to understand but difﬁcult to optimize for those who haven’t done segment tree problems before. It was designed to introduce people to segment trees in case they haven’t worked with them before. Only one contestant managed a perfect score on this question during the contest while other contestants only gained 2pts (for a brute force solution).  <br>
 A segment/fenwick tree will ensure that query and update operations are carried out in O(log n) time. It is also worth noting that update can be optimised a bit more by only updating when a non-palindrome is replaced with a palindrome or vice versa. 
 
-Solution with comments: https://www.hackerrank.com/contests/competitive-programmingst-andrews-beta-contest-18/challenges/palindrome-query-update/editorial
+Solution with comments: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-18/challenges/palindrome-query-update/editorial
 
 The only successful submission during the contest that used the segment tree approch is shown below:
 
