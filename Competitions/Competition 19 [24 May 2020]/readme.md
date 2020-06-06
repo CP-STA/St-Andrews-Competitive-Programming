@@ -14,7 +14,7 @@ Lowest score: 1.4/100 <br>
 Mean: 16.68/100 <br>
 Median: 20/100 <br>
 Mode: 20/100 (4 submissions) <br>
-All questions have solutions with comments in the hackerrank challenges editorial part. The leaderboard can be found here: https://www.hackerrank.com/contests/competitiveprogramming-st-andrews-beta-contest-18/leaderboard/1 
+All questions have solutions with comments in the hackerrank challenges editorial part. The leaderboard can be found here: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-18/leaderboard/1 
 
 ## Question 1: Twin Primes Closest to N 
 
