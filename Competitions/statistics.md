@@ -23,6 +23,11 @@ Curious on how each contest staked up statistically? This page briefly lists the
 | [18](Competition%2018%20[17%20May%202020]/readme.md)|48|40.7|26.7|100|18.2|8
 | [19](Competition%2019%20[24%20May%202020]/readme.md)|16.7|20|20|60|0|12
 | [20](Competition%2020%20[31%20May%202020]/readme.md)|52.9|50|33.3|95|7.54|6
+| [21](Competition%2020%20[7%20Jun%202020]/readme.md)|46|26.7|null|70.8|26.7|6
+| [22](Competition%2020%20[14%20Jun%202020]/readme.md)|43.2|37|30|76.7|20|8
+| [23](Competition%2020%20[21%20Jun%202020]/readme.md)|35.6|30|null|92.5|7|8
+| [24](Competition%2020%20[28%20Jun%202020]/readme.md)|62.4|71.7|null|100|1.13|6
+| [25](Competition%2020%20[5%20Jul%202020]/readme.md)|48.1|42.9|42.9|74.3|42.9|6
 
 The below table gives the averages for each question attempted in percentage. Note the fact that the weighting by question would vary for each contest, and we only consider users that made a submission (not necessarily all the participants). "null" means that the question wasn't considered in the statistics (usually because of a serious bug during the contest).
 
@@ -47,3 +52,9 @@ The below table gives the averages for each question attempted in percentage. No
 | [18](Competition%2018%20[17%20May%202020]/readme.md)|100|76.8|28.8| | | |48|
 | [19](Competition%2019%20[24%20May%202020]/readme.md)|70.3|0|28.4| | | |16.7|
 | [20](Competition%2020%20[31%20May%202020]/readme.md)|87.1|100|65| | | |52.9|
+| [21](Competition%2020%20[7%20Jun%202020]/readme.md)|100|12.5|66.7| | | |46|
+| [22](Competition%2020%20[14%20Jun%202020]/readme.md)|100|62|22.6| | | |43.2|
+| [23](Competition%2020%20[21%20Jun%202020]/readme.md)|66.5|57.4|33.3| | | |35.6|
+| [24](Competition%2020%20[28%20Jun%202020]/readme.md)|72.3|75|99.6| | | |62.4|
+| [25](Competition%2020%20[5%20Jul%202020]/readme.md)|100|27.5|null| | | |48.1|
+

@@ -9,7 +9,7 @@ Highest score: 53.13/75 (70.84%) <br>
 Lowest score: 20/75 (26.67%)<br>
 Mean: 34.50/75 (46%) <br>
 Median: 23.13/75 (26.67%) <br>
-Mode: 53.13/75 (70.84%), 23.13/75 (26.67%)
+Mode: 53.13/75 (70.84%) and 23.13/75 (26.67%)
 
 ## Question 1 - Worker Micro (20)
 
