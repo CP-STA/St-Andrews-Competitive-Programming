@@ -24,7 +24,7 @@ The leaderboard for each contest can be found on the contest page itself.
 
 ### Support and sponsorships
 
-In the past, we have worked with hackathons like Hack Quarantine ([Contests 11](Competitions/Competition%2011%20[29%20Mar%202020]/readme.md) and [Contests 12](Competitions/Competition%2012%20[5%20Apr%202020]/readme.md)) and The Open Code Foundation ([Contest 19](Competitions/Competition%2019%20[24%20May%202020]/readme.md)). 
+In the past, we have worked with hackathons like Hack Quarantine ([Contest 11](/Competitions/Competition%2011%20%5B29%20March%202020%5D/readme.md) and [Contest 12](/Competitions/Competition%2012%20[5%20Apr%202020]/readme.md)) and The Open Code Foundation ([Contest 19](/Competitions/Competition%2019%20[24%20May%202020]/readme.md)). 
 
 Upon request, we can create custom contests for hackathons and organisations, and possibly provide other support as well (like workshops and talks). For more information about us and for potential sponsorship opportunities, feel free to email dm282@st-andrews.ac.uk.
 
