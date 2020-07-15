@@ -41,3 +41,5 @@ This is an easy brute force question, the time complexity is O(nk), which can be
 * **Max Score:** 12/60
 * **Highest points submission (during contest):** +38m by _idol (passed sameple test)
 * **First success submission (after contest):** N/A
+
+The question is basically selection sort and the time complexity is O(n^2).
