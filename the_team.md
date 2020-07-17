@@ -15,7 +15,7 @@ I am a 3rd year student studying Computer Science and Economics.
 
 ### Philip Searcy
 
-(under construction)
+I'm a third year student studying Computer Science and Mathematics at the University of St Andrews.
 
 ### Wang Nguyen
 
