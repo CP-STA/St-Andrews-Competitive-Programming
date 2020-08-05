@@ -17,27 +17,27 @@ The editorial for each question is available on hackerrank.
 
 ### Statistics
 
-* **Success Rate:** 28.57% 
-* **Max Score:** 30/30
+* **Success Rate:** 20.14/30 (67.14%)
+* **Max Score:** 30/30 (100%)
 * **First success submission:** +6m by _idol
 
-This question can be pass with O(1) solution. There are a few edge cases which made many participants to fail first test set.
+This question can be passed with O(1) solution. There are a few edge cases which made many participants to fail first test set.
 
 ## Question 2 - Binary substring (12 pts, 23 pts)
 
 ### Statistics
 
-* **Success Rate:** 40% 
-* **Max Score:** 35/35
+* **Success Rate:** 16.4/35 (46.9%)
+* **Max Score:** 35/35 (100%)
 * **First success submission:** +20m by _idol
 
-This is an easy brute force question, the time complexity is O(nk), which can be optimised using bitwise operations to O(n).
+This is an easy brute force question, the time complexity is O(*nk*), which can be optimised using bitwise operations to O(n).
 
 ## Question 3 - Min value after swaps (Partial scoring)
 
 ### Statistics
 
-* **Success Rate:** 0% 
+* **Success Rate:** 12/60 (20%)
 * **Max Score:** 12/60
 * **Highest points submission (during contest):** +38m by _idol (passed sameple test)
 * **First success submission (after contest):** N/A
