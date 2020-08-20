@@ -23,4 +23,4 @@ I'm a third year student studying Computer Science and Mathematics at the Univer
 
 ### Leaderboard
 
-(under construction)
+A fourth year student studying Computer Science and Mathematics here at St Andrews. I like operating systems and computer architecture (along with algorithms!).
