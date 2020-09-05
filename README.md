@@ -5,6 +5,8 @@ This repository contains the resources and questions from past contests, held we
 
 **Confused on the location?** We have moved to a central repository and away from Leaderboard's personal account. All existing links will continue to work as usual.
 
+Note: The links and analysis to recent contests (from Contest 29) aren't yet there, and we are working to fix that as soon as possible.
+
 ## Sign up for the next contest 
 
 https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-34
