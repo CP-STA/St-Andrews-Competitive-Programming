@@ -42,7 +42,7 @@ sense that this method tended to be the easiest
 to avoid bugs with), however, it could also
 be solved with a recursive approach.
 
-## Question 3 - Nydus Network (30)
+## Question 3 - A Nice, Not Too Expensive Shrubbery (15)
 
 Highest score: 0/15 (0%)<br>
 Lowest score: 0/15 (0%)<br>
