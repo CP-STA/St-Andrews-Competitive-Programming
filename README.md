@@ -5,18 +5,16 @@ This repository contains the resources and questions from past contests, held we
 
 **Confused on the location?** We have moved to a central repository and away from Leaderboard's personal account. All existing links will continue to work as usual.
 
-Note: The links and analysis to recent contests (from Contest 29) aren't yet there, and we are working to fix that as soon as possible.
-
 ## Sign up for the next contest 
 
-https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-34
+https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-35
 ## Who are we?
 
 We are a small group of St Andrews students whose main intention is to improve our algorithmic and problem solving skills. This will prepare one for competitive programming competitions as well as help one ace technical coding interviews. We are open to all irrespecitve of major or coding experience - the point is to learn and improve.
 
 ## The contest
 
-It is a weekly programming competition (of approxmately one hour) where you solve fun and interesting programming problems. One of us typically sets the problems for that week.
+It is a weekly programming competition (of approximately one hour) where you solve fun and interesting programming problems. One of us typically sets the problems for that week.
 
 ### Past contests
 

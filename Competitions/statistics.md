@@ -29,10 +29,14 @@ Curious on how each contest staked up statistically? This page briefly lists the
 | [24](Competition%2024%20[28%20Jun%202020]/readme.md)|62.4|71.7|null|100|1.13|6
 | [25](Competition%2025%20[5%20Jul%202020]/readme.md)|48.1|42.9|42.9|74.3|42.9|6
 | [26](Competition%2026%20[12%20Jul%202020]/readme.md)|28.2|23.2|23.2|61.6|10.4|7
-| [27](Competition%2027%20[19%20Jul%202020]/readme.md)|49.1|26.5|100|100|9|5
+| [27](Competition%2027%20[19%20Jul%202020]/readme.pdf)|49.1|26.5|100|100|9|5
 | [28](Competition%2028%20[26%20Jul%202020]/readme.md)|36|22.4|null|60|19|7
 | [29](Competition%2029%20[2%20Aug%202020]/readme.md)|43.3|50|50|50|18.4|5
-
+| [30](Competition%2030%20[9%20Aug%202020]/readme.md)|21.1|10.5|null|63.2|0|9
+| 31|37.9|38.9|60|92.3|2.7|8
+| [32](Competition%2032%20[23%20Aug%202020]/readme.md)|34.1|20|20|100|20|7
+| [33](Competition%2033%20[30%20Aug%202020]/readme.md)|36.9|33.9|null|62.4|9.1|7
+| [34](Competition%2034%20[6%20Sep%202020]/readme.md)|51.9|50|33.3|100|0|22
 
 The below table gives the averages for each question attempted in percentage. Note the fact that the weighting by question would vary for each contest, and we only consider users that made a submission (not necessarily all the participants). "null" means that the question wasn't considered in the statistics (usually because of a serious bug during the contest).
 
@@ -66,4 +70,8 @@ The below table gives the averages for each question attempted in percentage. No
 | [27](Competition%2027%20[19%20Jul%202020]/readme.md)|71.3|50|66.7| | | |49.1|
 | [28](Competition%2028%20[26%20Jul%202020]/readme.md)|99.3|0|70.6| | | |36|
 | [29](Competition%2029%20[2%20Aug%202020]/readme.md)|100|80|0| | | |43.3|
-
+| [30](Competition%2030%20[9%20Aug%202020]/readme.md)|31.3|100|10| | | |21.1|
+| 31|63.3|84.9|40.4| | | |37.9|
+| [32](Competition%2032%20[23%20Aug%202020]/readme.md)|33.3|100|49.2| | | |34.1|
+| [33](Competition%2033%20[30%20Aug%202020]/readme.md)|84.2|18.7|46.9| | | |36.9|
+| [34](Competition%2034%20[6%20Sep%202020]/readme.md)|95.5|68.8|71.4| | | |51.9|

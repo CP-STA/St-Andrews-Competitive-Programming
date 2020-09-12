@@ -8,7 +8,7 @@ Number of contestants who made a submission: 22 <br>
 Highest score: 15/15 (100%) <br>
 Lowest score: 0/15 (0%)<br>
 Mean: 7.79/15 (51.89%) <br>
-Median: 5/15 (33.33%) <br>
+Median: 7.5/15 (50%) <br>
 Mode: 5/15 (33.33%)
 
 ## Question 1 - A: Gauss (5)
