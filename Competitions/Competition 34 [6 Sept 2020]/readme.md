@@ -2,7 +2,7 @@
 
 *Setter: Philip Searcy*
 
-15Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-34/challenges
+Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-34/challenges
 
 Number of contestants who made a submission: 22 <br>
 Highest score: 15/15 (100%) <br>
