@@ -3,7 +3,7 @@
 
 This repository contains the resources and questions from past contests, held weekly from 2-3PM UK Time on HackerRank.
 
-**We are now part of [STACS](https://www.facebook.com/StACompSoc)** Our events will continue normally, but this means that every STACS member is officially a part of CPSTA. 
+**We are now part of [STACS](https://www.facebook.com/StACompSoc)**. Our events will continue normally, but this means that every STACS member is officially a part of CPSTA. There are other benefits as well.
 
 **Accessibility issues?** If you have a condition (eg visually impaired, or even otherwise) that you think is causing you difficulty in taking part in any of our our events or contests, please let dm282@st-andrews.ac.uk know. We'll do what we can to ensure that you can take part in all our events.
 
