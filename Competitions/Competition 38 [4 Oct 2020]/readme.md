@@ -38,7 +38,7 @@ Grab each word in the string, and check if it is a Bitcoin address. If it is, th
 
 ### Comments
 
-This was poorly done for Q1. There were only two correct answers, both of which involved straightforward string splitting:
+This was poorly done for Q1 (though on the flip side, two users gave perfect solutions within 6 minutes). There were only two correct answers, both of which involved straightforward string splitting:
 
 ```python3
 def bitcoin_hijacking(text):
