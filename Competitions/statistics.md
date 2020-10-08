@@ -72,6 +72,6 @@ The below table gives the averages for each question attempted in percentage. No
 | [29](Competition%2029%20[2%20Aug%202020]/readme.md)|100|80|0| | | |43.3|
 | [30](Competition%2030%20[9%20Aug%202020]/readme.md)|31.3|100|10| | | |21.1|
 | 31|63.3|84.9|40.4| | | |37.9|
-| [32](Competition%2032%20[23%20Aug%202020]/readme.md)|33.3|100|49.2| | | |34.1|
+| [32](Competition%2032%20[23%20Aug%202020]/readme.pdf)|33.3|100|49.2| | | |34.1|
 | [33](Competition%2033%20[30%20Aug%202020]/readme.md)|84.2|18.7|46.9| | | |36.9|
 | [34](Competition%2034%20[6%20Sep%202020]/readme.md)|95.5|68.8|71.4| | | |51.9|
