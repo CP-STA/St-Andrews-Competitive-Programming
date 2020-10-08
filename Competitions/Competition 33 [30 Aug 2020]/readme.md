@@ -102,7 +102,7 @@ or
 
 (x<sub>n</sub>/y<sub>n</sub>) = (ax<sub>n - 1</sub>/y<sub>n - 1</sub> + b)/(cx<sub>n - 1</sub>/y<sub>n - 1</sub> + d)
 
-Notice that since we're taking n to infinity, the limital value of x<sub>n</sub>/y<sub>n</sub> and x<sub>n - 1</sub>/y<sub>n - 1</sub> will be the same. Now make the substitution x<sub>n</sub>/y<sub>n</sub> = x<sub>n - 1</sub>/y<sub>n - 1</sub = t. Substituting in the previous equation, we get
+Notice that since we're taking n to infinity, the limital value of x<sub>n</sub>/y<sub>n</sub> and x<sub>n - 1</sub>/y<sub>n - 1</sub> will be the same. Now make the substitution x<sub>n</sub>/y<sub>n</sub> = x<sub>n - 1</sub>/y<sub>n - 1</sub> = t. Substituting in the previous equation, we get
 
 t = (at + b)/(ct + d)
 
