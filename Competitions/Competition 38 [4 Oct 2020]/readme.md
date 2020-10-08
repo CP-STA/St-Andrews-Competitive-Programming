@@ -6,7 +6,7 @@ Link to challenges: https://www.hackerrank.com/contests/competitive-programming-
 
 ## Overall comments
 
-This contest was unexpectedly low scoring, with the median being 0, which is highly unusual (probably due to the lower average caliber compared to usual, but even then it was surprising). Also I expected more than 9 people to take part, given that this contest was fairly well publicised.
+This contest was unexpectedly low scoring, with the median being 0, which is highly unusual in any case. Also I expected more than 9 people to take part, given that this contest was fairly well publicised.
 
 Only one user did well.
 
