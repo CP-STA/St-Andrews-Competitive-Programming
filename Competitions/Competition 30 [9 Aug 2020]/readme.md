@@ -1,4 +1,4 @@
-# Analysis and overall comments for Competition 26
+# Analysis and overall comments for Competition 30
 
 *Setter: quangvn2508*
 
