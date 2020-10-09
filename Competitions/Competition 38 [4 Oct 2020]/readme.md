@@ -146,7 +146,7 @@ The reference solution used a more elegant recursive DFS approach, which is expl
 
 Nearly all of the points can be done by a bubble-sort idea that involves finding a set of swaps to a particular position of the array (from last to first). To get 100% would involve looking into more advanced approaches.
 
-## Statistics
+### Statistics
 
 * Mean = 20.96/45 (46.6%)
 * Median = null
