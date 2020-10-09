@@ -95,7 +95,7 @@ def quarantining_passengers(passengers, positive_passengers):
     return sorted(list(ans))
 ```
 
-However my reference solution (in Java) employed a different approach. If we pre-compute the list of passengers with their seat location, we can then take each positive passenger and then, after extracting the coordinates (using a hashmap), we can add other passengers into the list in constant-time per query:
+However my reference solution (in Java) employed a different approach. If we pre-compute the list of passengers with their seat location, we can then take each positive passenger and then, after extracting the coordinates (using a hashmap), we can add other passengers into the list in O(log *n*) per query:
 
 ```java
 public static List<String> quarantining_passengers(List<List<String>> passengers, List<String> positive_passengers) {
@@ -265,7 +265,7 @@ print(ans)
 
 The reason why linked lists are required is mainly because we can get constant-time addition and deletion at either end of the list (if doubly-linked), which is important in a question like this (where most of the operations were at the start or end of the list). Some contestants attempted to use string functions (akin to Java's StringBuilder). The issue with such methods is that methods like inserting are very time-consuming (often quadratic), and will fail here. Linked lists have linear insert overhead, and in many cases constant if at either end of the list.
 
-However, most of the wrong answers ended up getting zero points unfortunately (like the 1.35/35 points in Q2). One interesting solution got about 80% of the points that involved maintaining two strings (a bit like prefix/postix):
+However, most of the wrong answers ended up getting zero points unfortunately (like the 1.35/35 points in Q2). One interesting solution got about 80% of the points that involved maintaining two strings (a bit like prefix/postfix):
 
 ```python
 inp = input()
