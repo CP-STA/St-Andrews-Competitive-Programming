@@ -34,15 +34,6 @@ This question was the 7th version of the LEU KGX series. For the first time, the
 Solution with comments: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-37/challenges/leu-kgx-7/editorial
 
 
-Previous versions of this problem can be found here 
-
-LEU KGX											LEU KGX 2
-
-LEU KGX 3										LEU KGX 4
-
-LEU KGX 5               									LEU KGX 6
-
-
 ## Question 2: Probability 101
 
 Link to challenge: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-37/challenges/probability-101
