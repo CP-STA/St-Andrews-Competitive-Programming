@@ -2,7 +2,7 @@
 
 Setter: Kanishk Ali Khanna
 
-## Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-37/challenges
+Link to challenges: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-37/challenges
 
 ## Overall comments
 
@@ -60,11 +60,9 @@ Link to challenge: https://www.hackerrank.com/contests/competitive-programming-s
 
 This question was the hardest of the three although would have been straight forward for people who have solved similar problems before. The question was testing basic DFS and recursion skills. It was intended to be a refresher for people who hav solved problems like number of islands, max area of islands etc before. At the same time this question was included to expose new contestants to such a question as it can turn up quite often in coding interviews. It was good to see multiple successful solutions during the contest. The scoring for this question was binary (0 or 40) to ensure that only completely correct solutions can gain points. 
 
-
 Solution with comments: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-37/challenges/island-sizes/editorial
 
 
 Note: Feel free to contact me or any of the other team members if you would need any further clarifications on any of the questions in this contest.
 
 Email: cpsta@st-andrews.ac.uk 
-
