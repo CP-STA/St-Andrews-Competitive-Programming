@@ -11,7 +11,7 @@ This repository contains the resources and questions from past contests, held we
 
 https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-42
 
-**The policies for Contest 42 slightly differ as there are prizes. More details to follow, though the fact that anyone can take part still holds.**
+**The policies for Contest 42 slightly differ as there are prizes. See the contest page for more details**
 ## Who are we?
 
 We are a small group of St Andrews students whose main intention is to improve our algorithmic and problem solving skills. This will prepare one for competitive programming competitions as well as help one ace technical coding interviews. We are open to all irrespecitve of major or coding experience - the point is to learn and improve.
