@@ -7,7 +7,7 @@ This repository contains the resources and questions from past contests, held we
 
 **Accessibility issues?** If you have a condition (eg visually impaired, or even otherwise) that you think is causing you difficulty in taking part in any of our our events or contests, please let cpsta@st-andrews.ac.uk know. We'll do what we can to ensure that you can take part in all our events.
 
-**Note** Due to end of term examinations, contest 48 has been postponed to Sunday 20th December.
+**Note:** Due to end of term examinations, contest 48 has been postponed to Sunday 20th December.
 
 ## Sign up for the next contest 
 
