@@ -89,3 +89,120 @@ def palindromic_substrings(s):
 ```
 
 Only two solutions didn't make the cut, and one of them attempted to solve the problem in O(*n*) but didn't succeed because they were not considering "nearby" substrings. The other tried a traditional O(n<sup>2</sup>) solution that failed as well. 
+
+## Q2: Randomised sorting (30)
+
+*Difficulty: Medium*
+
+### Solution sketch
+
+Dynamic programming. Notice that when *n* = 1, there will be *m* sorted integers, each of which consists of the number itself. This represents the base case. Then a bit of pattern recognition would help. Suppose *m* = 3. Then the base cases would be
+
+1 <br>
+2 <br>
+3 <br>
+
+Suppose we insert 1 to the left of these numbers. Is 11 sorted? Yes. Is 12 sorted? Yes. Is 13 sorted? Yes. That means that there are 3 sorted numbers when the first digit is 1. Now let's go to the second number. Is 21 sorted? No. Is 22 sorted? Yes. Is 23 sorted? Yes. Now last one. Only 33 is sorted. Notice that the number of sorted numbers is 3 + 2 + 1 = 6. In particular, note that
+
+3 = number of sorted numbers when *n* = 1 <br>
+2 = number of sorted numbers when *n* = 1 AND the first digit being 2 <br>
+1 = number of sorted numbers when *n* = 1 AND the first digit being 3
+
+This means that we can utitlise a 2-D DP table, with (i, j) being the number of sorted numbers when *m* = *i* and *n* = *j*. To speed computation, we can maintain a variable ``sum`` that represents the number of sorted numbres when *n* = *j* - 1.
+### Statistics
+
+* Mean = 20.42/30 (68.1%)
+* Median = 20.75/30 (69.2%)
+* Mode = 30/30 (100%)
+* Highest score = 30/30 (100%)
+* Lowest score = 10.5/30 (35%)
+* Number of users = 6
+
+### Comments
+
+As expected, this question separated most constantants. Nevertheless, half of the users that attempted got a full score:
+
+```c++
+#define MOD 1000000007
+typedef long long int ll;
+
+
+ll mem[501][501];
+
+ll h(int m, int n) {
+    if (n == 0) return 1;
+    
+    if (mem[m][n] != -1) return mem[m][n];
+    
+    ll a = 0;
+    for (int i = m; i >= 1; i--) {
+        a += h(i, n - 1);
+        a %= MOD;
+    }
+    return mem[m][n] = a;
+}
+
+int randomised_sorting(int m, int n) {
+    memset(mem,-1,sizeof(mem));
+    
+    return h(m, n);
+
+}
+
+int main()
+{
+    ofstream fout(getenv("OUTPUT_PATH"));
+
+    string first_multiple_input_temp;
+    getline(cin, first_multiple_input_temp);
+
+    vector<string> first_multiple_input = split(rtrim(first_multiple_input_temp));
+
+    int m = stoi(first_multiple_input[0]);
+
+    int n = stoi(first_multiple_input[1]);
+
+    int ans = randomised_sorting(m, n);
+
+    fout << ans << "\n";
+
+    fout.close();
+
+    return 0;
+}
+```
+
+Note that it's essential that the dynamic programming table is MODed. This is because the numbers quickly become illogically large (I've seen some go beyond 500 digits), and no integer datatype can handle it (not even Python's 64-bit int). Alternatively a large number library such as Java's BigInteger can be used (this was the approach taken by the reference solution). Users that didn't got no more than 35%.
+
+One user (Jonathan Yim) came up with a very nice alternative (comments written by him):
+
+```python3
+def randomised_sorting(m, n):
+    # edge cases: 
+    if m == 1:
+        return 1
+    elif n == 1: 
+        return m
+    
+    
+    # when m=3, incrementing n gives us the triangle numbers
+    # when m=4, incrementing n gives us the tetrahedral numbers
+    # let's try looking into these: https://en.wikipedia.org/wiki/Figurate_number
+    # it seems that this gives us essentially an nCr of (n+m-1, m-1)
+    
+    # define factorial with modulo
+    def fac(num): 
+        return math.factorial(num)
+    
+    # define nCr:
+    def combinations(n, r):
+        # print( fac(n) )
+        # print( fac(r) * fac(n-r) )
+        # print( fac(n) / (fac(r) * fac(n-r)) )
+        return int( (fac(n) / (fac(r) * fac(n-r)))  % (pow(10, 9) + 7) )
+    
+    return (combinations(n+m-1, m-1))
+ ```
+ 
+This makes use of combinatorial properties to get the result. While his solution is mathematically accurate, the problem here is that ``math.factorial`` cannot properly handle very large integers, which was the thorn with this solution. Regardless, it's a very nice solution. I had thought of a connection with chromatic polynomials (or isomorphisms), but couldn't get a lead from there. The Figurate number was the key connection I was missing. Well done.
+
