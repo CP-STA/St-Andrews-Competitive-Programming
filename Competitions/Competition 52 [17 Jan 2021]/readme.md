@@ -278,7 +278,7 @@ def binary_tree_distribution(amt, d, ansdepth, ansnode):
     return int( amt * comb(depth, node) * pow(p, depth - node) * pow(1-p, node) )
 ```
 
-![image](http://www.sciweavers.org/tex2img.php?eq=amt%20%5Ctimes%20%5Cbinom%7Bansdepth%20-%201%7D%7Bansnode%20-%201%7D%20%5Ctimes%20p%5E%7Bansdepth%20-%20ansnode%7D%20%5Ctimes%20%281%20-%20p%29%5E%7Bansnode%20-%201%7D&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
+![image](https://bit.ly/3bMaShu)
 
 This reminded me of the binomial distribution. What exactly is going on? This solution basically notices the pattern to Pascal's triangle, and uses that to deduce a relationship with the Binomial Distribution. In this words,
 
