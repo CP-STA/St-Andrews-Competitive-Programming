@@ -206,3 +206,82 @@ def randomised_sorting(m, n):
  
 This makes use of combinatorial properties to get the result. While his solution is mathematically accurate, the problem here is that ``math.factorial`` cannot properly handle very large integers, which was the thorn with this solution. Regardless, it's a very nice solution. I had thought of a connection with chromatic polynomials (or isomorphisms), but couldn't get a lead from there. The Figurate number was the key connection I was missing. Well done.
 
+## Q2: Binary tree distribution (30)
+
+*Difficulty: Medium*
+
+### Solution sketch
+
+BFS-based DP simulation, just do as the problem says.
+
+### Statistics
+
+* Mean = 27.3/30 (90.8%)
+* Median = 30/30 (100%)
+* Mode = 30/30 (100%)
+* Highest score = 30/30 (100%)
+* Lowest score = 19/30 (63.3%)
+* Number of users = 4
+
+### Comments
+
+This problem was well done, with most effectively simulating the problem using BFS/DP:
+
+```c++
+double left(double val, double d) {
+    return val / d;
+}
+
+double right(double val, double d) {
+    return val - left(val, d);
+}
+
+int binary_tree_distribution(int amt, int d, int ansdepth, int ansnode) {
+    vector<vector<double>> tr(ansdepth + 1);
+    tr[1].push_back(amt);
+    for (int i = 2; i <= ansdepth; i++) {
+        tr[i] = vector<double>(i);
+        for (int j = 0; j < i; j++) {
+            if (j > 0) {
+                tr[i][j] += right(tr[i - 1][j - 1], d);
+            }
+            
+            if (j < i - 1) {
+                tr[i][j] += left(tr[i - 1][j], d);
+            }
+        }
+    }
+    
+    return (int)tr[ansdepth][ansnode - 1];
+}
+```
+
+However, here again we see an unorthodox solution by Jonathan Yim that (this time) got full marks:
+
+```python3
+def binary_tree_distribution(amt, d, ansdepth, ansnode):
+    # we're looking at a binomial distribution here, where the probability of an occurrence is 1/d
+    
+    # define factorial with modulo
+    def fac(num): 
+        return math.factorial(num)
+    
+    # define nCr:
+    def comb(n, r):
+        return int( (fac(n) / (fac(r) * fac(n-r))) )
+    
+    p = 1/d
+    depth = ansdepth - 1
+    node = ansnode - 1
+    
+    # then, amt * (depth node) * p^(depth - node) * (1 - p)^(node)
+    return int( amt * comb(depth, node) * pow(p, depth - node) * pow(1-p, node) )
+```
+
+![image](http://www.sciweavers.org/tex2img.php?eq=amt%20%5Ctimes%20%5Cbinom%7Bansdepth%20-%201%7D%7Bansnode%20-%201%7D%20%5Ctimes%20p%5E%7Bansdepth%20-%20ansnode%7D%20%5Ctimes%20%281%20-%20p%29%5E%7Bansnode%20-%201%7D&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0)
+
+This reminded me of the binomial distribution. What exactly is going on? This solution basically notices the pattern to Pascal's triangle, and uses that to deduce a relationship with the Binomial Distribution. In this words,
+
+> in the diagrams you drew for the example questions i saw the 1-2-1, 1-3-3-1 and 1-4-6-4-1 distribution and that reminded me of pascal's triangle. then i kind of derived the connection as pascal's triangle is essentially binomial distribution where the probability is 0.5
+
+A solution like this took me completely by surprise - well done again!
