@@ -206,6 +206,28 @@ def randomised_sorting(m, n):
  
 This makes use of combinatorial properties to get the result. While his solution is mathematically accurate, the problem here is that ``math.factorial`` cannot properly handle very large integers, which was the thorn with this solution. Regardless, it's a very nice solution. I had thought of a connection with chromatic polynomials (or isomorphisms), but couldn't get a lead from there. The Figurate number was the key connection I was missing. Well done.
 
+For those interested in an alternative path, a very interesting alternative is to make use of Python's ``lru_cache``, which is a clever way of memoization. While it is a bit slower than traditional DP, it's much simplier. The below solution got all but one case - this is a case where PyPy would get fewer points due to the stricter time limit.
+
+```python3
+from functools import lru_cache    
+
+def randomised_sorting(m, n):
+    c = 0
+    mod = 10 ** 9 + 7
+    @lru_cache(None)
+    def helper (prev, index):
+        if index >= n:
+            return 1
+        res = 0
+        for i in range (prev, m + 1):
+            res = res + helper(i, index + 1)
+        return res % mod
+    return helper(1, 0)
+        
+m, n = map(int, input().split())
+print(randomised_sorting(m, n))
+```
+
 ## Q2: Binary tree distribution (30)
 
 *Difficulty: Medium*
@@ -225,7 +247,7 @@ BFS-based DP simulation, just do as the problem says.
 
 ### Comments
 
-This problem was well done, with most effectively simulating the problem using BFS/DP:
+This problem was well done, with most effectively simulating the problem using BFS/DP (as with Q2, ``lru_cache`` would work as well and can get full points):
 
 ```c++
 double left(double val, double d) {
