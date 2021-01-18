@@ -90,7 +90,7 @@ def palindromic_substrings(s):
     return str(ans)
 ```
 
-Only two solutions didn't make the cut, and one of them attempted to solve the problem in O(*n*) but didn't succeed because they were not considering "nearby" substrings. The other tried a traditional O(n<sup>2</sup>) solution that failed as well. 
+Only two solutions didn't make the cut, and one of them attempted to solve the problem in O(*n*) but didn't succeed because they were only considering "nearby" substrings. The other tried a traditional O(*n*<sup>2</sup>) solution that failed as well. 
 
 ## Q2: Randomised sorting (30)
 
@@ -230,7 +230,7 @@ m, n = map(int, input().split())
 print(randomised_sorting(m, n))
 ```
 
-## Q2: Binary tree distribution (30)
+## Q3: Binary tree distribution (30)
 
 *Difficulty: Medium*
 
@@ -301,8 +301,6 @@ def binary_tree_distribution(amt, d, ansdepth, ansnode):
     # then, amt * (depth node) * p^(depth - node) * (1 - p)^(node)
     return int( amt * comb(depth, node) * pow(p, depth - node) * pow(1-p, node) )
 ```
-
-![image](https://bit.ly/3bMaShu)
 
 This reminded me of the binomial distribution. What exactly is going on? This solution basically notices the pattern to Pascal's triangle, and uses that to deduce a relationship with the Binomial Distribution. In this words,
 
