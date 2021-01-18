@@ -2,6 +2,8 @@
 
 *Setter: Leaderboard*
 
+Contest link: https://www.hackerrank.com/contests/competitive-programming-st-andrews-beta-contest-52
+
 ## Overall comments
 
 This contest was well done, despite a nasty bug in Q1 that caused confusion for the first 10 minutes, which is regretted. Q2 was the separator as expected. Two users got a perfect mark of 80/80, well done to them.
