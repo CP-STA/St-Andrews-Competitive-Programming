@@ -1,21 +1,35 @@
-# Competitive Programming St Andrews Beta
+<p align="center">
+  <img src="assets/updated-logo.png" width="200" height="200">
+</p>
 
-This repository contains the resources and questions from past contests, held weekly from 2-3PM UK Time on HackerRank.
+<h1 align="center">Competitive Programming St Andrews (CPSTA)</h1>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/company/competitive-programming-st-andrews/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/CompetitiveProgrammingStAndrews">
+    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+
+<br/>
+
+This repository contains the resources and questions from past contests, held from 2-3PM UK Time on HackerRank.
 
 **We are now part of [STACS](https://www.facebook.com/StACompSoc)**. Our events will continue normally, but this means that every STACS member is officially a part of CPSTA. There are other benefits as well.
 
 **Accessibility issues?** If you have a condition (eg visually impaired, or even otherwise) that you think is causing you difficulty in taking part in any of our our events or contests, please let cpsta@st-andrews.ac.uk know. We'll do what we can to ensure that you can take part in all our events.
 
-## Sign up for the next contest 
-
-https://www.hackerrank.com/competitive-programming-st-andrews-beta-contest-61
 ## Who are we?
 
-We are a small group of St Andrews students whose main intention is to improve our algorithmic and problem solving skills. This will prepare one for competitive programming competitions as well as help one ace technical coding interviews. We are open to all irrespecitve of major or coding experience - the point is to learn and improve.
+We are a small group of St Andrews students whose main intention is to strengthen people's algorithmic and problem-solving skills. Our workshops and contests serve as preparation for competitive programming competitions and will help one ace technical coding interviews.
+
+We are open to all irrespecitve of major or coding experience - the point is to learn and improve.
 
 ## The contest
 
-It is a weekly programming competition (of approximately one hour) where you solve fun and interesting programming problems. One of us typically sets the problems for that week.
+It is a programming competition of approximately one hour where you solve fun and interesting programming problems. One of us typically sets all the problems for that contest.
 
 ### Past contests
 
@@ -27,16 +41,10 @@ The leaderboard for each contest can be found on the contest page itself.
 
 ### Support and sponsorships
 
-In the past, we have worked with hackathons like Hack Quarantine ([Contest 11](/Competitions/Competition%2011%20%5B29%20March%202020%5D/readme.md) and [Contest 12](/Competitions/Competition%2012%20[5%20Apr%202020]/readme.md)) and The Open Code Foundation ([Contest 19](/Competitions/Competition%2019%20[24%20May%202020]/readme.md)). 
+In the past, we have worked with hackathons like Hack Quarantine ([Contest 11](/Competitions/Competition%2011%20%5B29%20March%202020%5D/readme.md) and [Contest 12](/Competitions/Competition%2012%20[5%20Apr%202020]/readme.md)) and The Open Code Foundation ([Contest 19](/Competitions/Competition%2019%20[24%20May%202020]/readme.md)).
 
 Upon request, we can create custom contests for hackathons and organisations, and possibly provide other support as well (like workshops and talks). For more information about us and for potential sponsorship opportunities, feel free to email cpsta@st-andrews.ac.uk.
 
 ### The team
 
 Currently consists of five St Andrews students from around the world. Learn more about the members that power this club [here](the_team.md).
-
-## Follow us
-
-* Facebook: https://www.facebook.com/CompetitiveProgrammingStAndrews/
-* Linkedin: https://www.linkedin.com/company/competitive-programming-st-andrews/
-* GitHub - this page!
