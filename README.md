@@ -21,13 +21,13 @@ This repository contains the resources and questions from past contests, held fr
 
 **Accessibility issues?** If you have a condition (eg visually impaired, or even otherwise) that you think is causing you difficulty in taking part in any of our our events or contests, please let cpsta@st-andrews.ac.uk know. We'll do what we can to ensure that you can take part in all our events.
 
-## Who are we?
+## Who are We?
 
 We are a small group of St Andrews students whose main intention is to strengthen people's algorithmic and problem-solving skills. Our workshops and contests serve as preparation for competitive programming competitions and will help one ace technical coding interviews.
 
 We are open to all irrespecitve of major or coding experience - the point is to learn and improve.
 
-## The contest
+## The Contest
 
 It is a programming competition of approximately one hour where you solve fun and interesting programming problems. One of us typically sets all the problems for that contest.
 
@@ -45,6 +45,6 @@ In the past, we have worked with hackathons like Hack Quarantine ([Contest 11](/
 
 Upon request, we can create custom contests for hackathons and organisations, and possibly provide other support as well (like workshops and talks). For more information about us and for potential sponsorship opportunities, feel free to email cpsta@st-andrews.ac.uk.
 
-### The team
+## The Team
 
 Currently consists of five St Andrews students from around the world. Learn more about the members that power this club [here](the_team.md).
