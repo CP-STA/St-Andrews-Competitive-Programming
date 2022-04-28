@@ -11,6 +11,9 @@
   <a href="https://www.facebook.com/CompetitiveProgrammingStAndrews">
     <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
+  <a href="https://discord.gg/5FsjrdEwzE">
+    <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </div>
 
 <br/>
