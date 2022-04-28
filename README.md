@@ -47,4 +47,4 @@ Upon request, we can create custom contests for hackathons and organisations, an
 
 ## The Team
 
-Currently consists of five St Andrews students from around the world. Learn more about the members that power this club [here](the_team.md).
+Currently consists of seven St Andrews students from around the world. Learn more about the members that power this club [here](the_team.md).
