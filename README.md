@@ -28,7 +28,7 @@ This repository contains the resources and questions from past contests, held fr
 
 We are a small group of St Andrews students whose main intention is to strengthen people's algorithmic and problem-solving skills. Our workshops and contests serve as preparation for competitive programming competitions and will help one ace technical coding interviews.
 
-We are open to all irrespecitve of major or coding experience - the point is to learn and improve.
+We are open to all irrespective of major or coding experience - the point is to learn and improve.
 
 ## The Contest
 
